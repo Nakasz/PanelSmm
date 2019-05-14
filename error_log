@@ -1,0 +1,87 @@
+[21-Apr-2019 21:18:09 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/codebuja/public_html/application/controllers/Auth.php on line 10
+[21-Apr-2019 22:01:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/codebuja/public_html/application/controllers/Auth.php on line 14
+[21-Apr-2019 22:02:13 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/codebuja/public_html/application/controllers/Auth.php on line 14
+[21-Apr-2019 22:02:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/codebuja/public_html/application/controllers/Auth.php on line 14
+[21-Apr-2019 22:03:04 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/codebuja/public_html/application/controllers/Auth.php on line 14
+[25-Apr-2019 17:52:30 UTC] PHP Fatal error:  Call to undefined function str_rand() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 17:58:43 UTC] PHP Fatal error:  Call to undefined function str_rand() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:04:18 UTC] PHP Fatal error:  Call to undefined function str_rand() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:06:33 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:11:53 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:12:54 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:18:06 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:21:38 UTC] PHP Fatal error:  Call to undefined method CI_Input::random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:22:39 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:23:35 UTC] PHP Fatal error:  Call to undefined function str_rand() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:29:19 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:33:11 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:40:43 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 43
+[25-Apr-2019 18:42:54 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/codebuja/public_html/application/controllers/Auth.php on line 44
+[25-Apr-2019 19:56:25 UTC] PHP Fatal error:  Function name must be a string in /home/codebuja/public_html/application/controllers/Auth.php on line 32
+[25-Apr-2019 20:13:34 UTC] PHP Fatal error:  Call to undefined function rediect() in /home/codebuja/public_html/application/controllers/Auth.php on line 40
+[25-Apr-2019 20:15:14 UTC] PHP Fatal error:  Call to undefined function rediect() in /home/codebuja/public_html/application/controllers/Auth.php on line 40
+[25-Apr-2019 20:50:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 7
+[25-Apr-2019 20:50:25 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 7
+[25-Apr-2019 20:51:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 7
+[25-Apr-2019 20:52:33 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 7
+[25-Apr-2019 20:54:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 8
+[25-Apr-2019 20:54:27 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_aray() in /home/codebuja/public_html/application/controllers/User.php on line 8
+[26-Apr-2019 01:16:31 UTC] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/codebuja/public_html/application/views/panel/index.php on line 343
+[26-Apr-2019 02:57:15 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:02:49 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:05:01 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:05:04 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:05:06 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:05:23 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:06:38 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:10:00 UTC] PHP Fatal error:  Call to undefined function is_logged_in() in /home/codebuja/public_html/application/controllers/Panel.php on line 9
+[26-Apr-2019 03:45:24 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 10
+[26-Apr-2019 05:58:16 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 10
+[26-Apr-2019 05:59:33 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 10
+[26-Apr-2019 06:07:35 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 11
+[26-Apr-2019 06:23:00 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 9
+[26-Apr-2019 06:23:56 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 9
+[26-Apr-2019 06:24:43 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 9
+[26-Apr-2019 06:24:47 UTC] PHP Fatal error:  Call to a member function segment() on null in /home/codebuja/public_html/application/helpers/cek_helper.php on line 9
+[26-Apr-2019 06:38:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/codebuja/public_html/application/helpers/cek_helper.php on line 10
+[26-Apr-2019 06:52:10 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/codebuja/public_html/application/helpers/cek_helper.php on line 9
+[27-Apr-2019 01:37:58 UTC] PHP Fatal error:  Call to undefined function isnot_logged_in() in /home/codebuja/public_html/application/controllers/Admin.php on line 9
+[27-Apr-2019 02:49:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/codebuja/public_html/application/controllers/Admin.php on line 11
+[27-Apr-2019 09:33:48 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /home/codebuja/public_html/application/views/panel/index.php on line 127
+[27-Apr-2019 15:02:15 UTC] PHP Fatal error:  Call to undefined function SUBSTRING() in /home/codebuja/public_html/application/views/panel/order/history.php on line 60
+[27-Apr-2019 15:03:10 UTC] PHP Fatal error:  Call to undefined function format_date() in /home/codebuja/public_html/application/views/panel/order/history.php on line 60
+[27-Apr-2019 15:03:12 UTC] PHP Fatal error:  Call to undefined function format_date() in /home/codebuja/public_html/application/views/panel/order/history.php on line 60
+[27-Apr-2019 19:32:01 UTC] PHP Fatal error:  Cannot redeclare is_admin() (previously declared in /home/codebuja/public_html/application/helpers/cek_helper.php:19) in /home/codebuja/public_html/application/helpers/cek_helper.php on line 30
+[27-Apr-2019 22:57:03 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/codebuja/public_html/application/views/panel/order/history.php on line 56
+[29-Apr-2019 13:36:21 UTC] PHP Fatal error:  Function name must be a string in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 13:46:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 13:46:09 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 14:45:12 UTC] PHP Fatal error:  Call to undefined method History_model::get_history() in /home/codebuja/public_html/application/controllers/Panel.php on line 41
+[29-Apr-2019 15:24:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/codebuja/public_html/application/models/History_model.php on line 13
+[29-Apr-2019 15:40:07 UTC] PHP Fatal error:  Function name must be a string in /home/codebuja/public_html/application/models/History_model.php on line 8
+[29-Apr-2019 15:54:18 UTC] PHP Parse error:  syntax error, unexpected 'order_by' (T_STRING) in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:55:03 UTC] PHP Parse error:  syntax error, unexpected 'order_by' (T_STRING) in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:55:05 UTC] PHP Parse error:  syntax error, unexpected 'order_by' (T_STRING) in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:55:18 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:57:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:57:44 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:59:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 15:59:54 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/codebuja/public_html/application/controllers/Panel.php on line 40
+[29-Apr-2019 19:02:03 UTC] PHP Fatal error:  Call to undefined function is_loggin() in /home/codebuja/public_html/application/controllers/Auth.php on line 12
+[29-Apr-2019 19:48:30 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/codebuja/public_html/application/controllers/Reseller.php on line 10
+[29-Apr-2019 19:50:05 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/codebuja/public_html/application/controllers/Reseller.php on line 11
+[29-Apr-2019 19:50:28 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/codebuja/public_html/application/controllers/Reseller.php on line 10
+[29-Apr-2019 19:50:30 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/codebuja/public_html/application/controllers/Reseller.php on line 10
+[29-Apr-2019 21:03:32 UTC] PHP Fatal error:  Call to undefined function format_date() in /home/codebuja/public_html/application/views/panel/order/history.php on line 120
+[29-Apr-2019 21:10:57 UTC] PHP Fatal error:  Call to undefined function format_date() in /home/codebuja/public_html/application/views/panel/order/history.php on line 120
+[29-Apr-2019 21:11:02 UTC] PHP Fatal error:  Call to undefined function format_date() in /home/codebuja/public_html/application/views/panel/order/history.php on line 120
+[30-Apr-2019 19:50:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/codebuja/public_html/application/views/panel/order/index.php on line 123
+[30-Apr-2019 19:52:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/codebuja/public_html/application/views/panel/order/index.php on line 123
+[02-May-2019 20:01:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:08:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:31:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:31:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:31:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:32:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 20:33:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/codebuja/public_html/application/models/Category_helper.php on line 18
+[02-May-2019 21:27:51 UTC] PHP Fatal error:  Cannot redeclare Category_helper::service() in /home/codebuja/public_html/application/models/Category_helper.php on line 32
